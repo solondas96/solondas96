@@ -1,6 +1,9 @@
 # 💫 About Me:
 Hey there, I'm your go-to data whisperer! 👾 <br>With over 6 years of engineering magic under my belt, <br>I’m currently brewing data masterpieces as a Senior Data Engineer at Ab InBev India. <br>From crafting pipelines that power Goldman Sachs to slashing loan approval times by 90% <br>for an NBFC Startup, I've been deep in the data trenches, turning chaos into clarity.<br><br>Fluent in Python, Spark, SQL, and a big fan of Azure DataBricks, <br>I live to design seamless, scalable data solutions that spark insights. <br>Whether it's transforming raw data into sleek Power BI dashboards or harmonizing datasets for the next-gen AI Application, <br>I’m all about making data sing!<br><br>When I’m not knee-deep in code, you’ll find me lost in music, <br>capturing moments through my camera lens, or traveling the globe in search of new perspectives. <br>My mantra? <br>Lifelong learning and always staying curious. <br><br>Whether it's mentoring, coaching, or solving the next big data challenge - I'm here for it. <br>Let’s build something amazing together!
 
+Lets connect:
+https://linktr.ee/solondas
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/solondas.ig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/solondas/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@solondas96) 
