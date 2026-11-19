@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Solon Kumar Das banner"/>
-
 <a href="https://github.com/solondas96/solondas96">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=640&lines=Senior+Data+Engineer+%40+Swiss+Re;Palantir+Foundry+%C2%B7+Databricks+%C2%B7+Spark;RAG+%C2%B7+Semantic+Search+%C2%B7+Vision+Language+Models;90M%2B+documents.+59TB+of+data.+Production+AI." alt="Typing animation" />
 </a>
