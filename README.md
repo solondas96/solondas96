@@ -1,7 +1,7 @@
 <div align="center">
 
-<a href="https://github.com/solondas96/solondas96">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=640&lines=Senior+Data+Engineer+%40+Swiss+Re;Palantir+Foundry+%C2%B7+Databricks+%C2%B7+Spark;RAG+%C2%B7+Semantic+Search+%C2%B7+Vision+Language+Models;90M%2B+documents.+59TB+of+data.+Production+AI." alt="Typing animation" />
+<a href="https://github.com/solondas96">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=640&lines=Senior+Data+Engineer+%40+Swiss+Re;Palantir+Foundry+%C2%B7+Databricks+%C2%B7+Spark;RAG+%C2%B7+Semantic+Search+%C2%B7+Vision+Language+Models;90M%2B+documents.+59+TB+of+data.+Production+AI." alt="Typing animation" />
 </a>
 
 <br/>
@@ -11,19 +11,21 @@
 [![Medium](https://img.shields.io/badge/Medium-TheDatumTheory-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@solondas96)
 [![Instagram](https://img.shields.io/badge/Instagram-solondas.ig-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/solondas.ig)
 
+<sub>📍 Bengaluru, India &nbsp;·&nbsp; Building AI-ready data platforms &nbsp;·&nbsp; Open to conversations on enterprise AI, data platforms & open source</sub>
+
 </div>
 
 ---
 
 ## 👋 About Me
 
-I'm a **Data & AI Engineer** with **7+ years** of experience designing enterprise-scale data platforms and AI infrastructure across reinsurance, FMCG, and consulting.
+I'm a **Data & AI Engineer** with **7+ years** of experience designing enterprise-scale data platforms and AI infrastructure across reinsurance, FMCG, and financial services.
 
-Today, I build **AI-ready data platforms on Palantir Foundry**, helping enterprises search, understand, and reason over millions of unstructured documents using modern AI.
+Today I build **AI-ready data platforms on Palantir Foundry**, helping enterprises search, understand, and reason over millions of unstructured documents with modern AI.
 
-I care about building systems that are **fast ⚡ · scalable 📈 · AI-first 🤖 · production-ready 🏗**
+I optimise for systems that are **fast ⚡ · scalable 📈 · AI-first 🤖 · production-ready 🏗**
 
-**Where I've worked:** &nbsp; 🇨🇭 **Swiss Re** &nbsp;→&nbsp; 🍺 **AB InBev** &nbsp;→&nbsp; 💼 **EY** &nbsp;→&nbsp; 💊 **Accenture**
+**Career path:** &nbsp; 🇨🇭 **Swiss Re** &nbsp;←&nbsp; 💼 **EY** &nbsp;←&nbsp; 🍺 **AB InBev** &nbsp;←&nbsp; 💊 **Accenture**
 
 ---
 
@@ -46,21 +48,21 @@ I care about building systems that are **fast ⚡ · scalable 📈 · AI-first �
 <td width="50%" valign="top">
 
 ### 🤖 Enterprise AI
-- Retrieval Augmented Generation (RAG)
-- Semantic Search & Vector Embeddings
+- Retrieval-Augmented Generation (RAG)
+- Semantic search & vector embeddings
 - Vision Language Models (multimodal)
-- Enterprise Knowledge Systems
-- AI-ready Data Platforms
+- Enterprise knowledge systems
+- Agentic AI workflows
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚙️ Data Engineering
-- Distributed Spark Systems
-- Streaming Pipelines
-- Platform Engineering
-- Data Governance
-- Cost & Performance Optimization
+- Distributed Spark systems
+- Streaming pipelines (Kafka)
+- Platform engineering
+- Data governance & quality
+- Cost & performance optimisation
 
 </td>
 </tr>
@@ -141,29 +143,28 @@ I care about building systems that are **fast ⚡ · scalable 📈 · AI-first �
 | 🍽 **Restaurant Discovery** | Find restaurants visually on maps |
 | 📦 **GitHub Repo Explorer** | A better GitHub search experience |
 | 🤖 **AI Playground** | GenAI experiments |
-| ⚡ **Spark Toolkit** | Spark optimization examples |
+| ⚡ **Spark Toolkit** | Spark optimisation examples |
 | 🎮 **Tic Tac Toe** | Polished Material UI game |
 | 📍 **Everyday Utilities** | Useful productivity tools |
 
-> 🔗 Tip: link each project name to its repo, e.g. `[🍽 Restaurant Discovery](https://github.com/solondas96/your-repo)`.
-> More live projects at my **[portfolio](https://portfolio-dznk.vercel.app)**.
+More live projects on my **[portfolio](https://portfolio-dznk.vercel.app)**.
 
 ---
 
-## ✍️ Latest Writing — *TheDatumTheory*
+## ✍️ Writing — *TheDatumTheory*
 
-I write practical engineering articles on **Spark optimization**, **Palantir Foundry**, **data architecture**, **AI infrastructure**, **distributed systems**, and **engineering leadership**.
+I write practical engineering articles on **Spark optimisation**, **Palantir Foundry**, **data architecture**, **AI infrastructure**, **distributed systems**, and **engineering leadership**.
 
 [![Read on Medium](https://img.shields.io/badge/Read%20on%20Medium-@solondas96-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@solondas96)
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Next Up
 
 - [ ] Build 25 public web applications
 - [ ] Publish a technical blog every month
 - [ ] Grow GitHub to 500+ stars
-- [ ] Become a top voice in AI Infrastructure
+- [ ] Become a recognised voice in AI infrastructure
 - [ ] Contribute more to open source
 
 ---
@@ -205,6 +206,5 @@ I'm always up for conversations about **enterprise AI, data platforms, and open 
 <br/>
 
 ⭐ If you enjoy my work, consider following my journey.
-
 
 </div>
